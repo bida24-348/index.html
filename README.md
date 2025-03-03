@@ -26,8 +26,8 @@
 <p>This is the day that the lord has made i shall rejoice
             And praise the lord in all days of my life as i dwell in the hiuse of the lord.</p>
 
-<p>Here's a picture of a cute cat:</p>
-<img src="LAPTOP JPEG" alt="A cute kitten">
+<p a laptop:</p>
+<img src="LAPTOP JPEG">
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
