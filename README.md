@@ -26,8 +26,9 @@
 <p>This is the day that the lord has made i shall rejoice
             And praise the lord in all days of my life as i dwell in the hiuse of the lord.</p>
 
-<p<img src="LAPTOP JPEG">
- a laptop:</p>
+
+<img src="img_girl.jpg" alt="Girl in a jacket">
+ 
 
 
 <p>Visit <a href="https://github.com">GitHub</a> to learn more about coding.</p>
