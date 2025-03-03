@@ -23,7 +23,8 @@
 
 <main>
 
-<p>This is a simple webpage hosted on GitHub Pages.</p>
+<p>This is the day that the lord has made i shall rejoice
+            And praise the lord in all days of my life as i dwell in the hiuse of the lord.</p>
 
 <p>Here's a picture of a cute cat:</p>
 <img src="https://placekitten.com/200/300" alt="A cute kitten">
