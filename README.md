@@ -16,7 +16,16 @@
 
 <header>
 
-<h1>Welcome to My Website!</h1>
+<h1>Welcome to My Website!</h1><nav>
+
+<a href="index.html">Home</a> |
+
+<a href="about.html">About</a> |
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
 
 </header>
 
