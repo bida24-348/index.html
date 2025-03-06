@@ -51,7 +51,28 @@ text-decoration: underline;
 </header>
 
 
-<main>
+<main>main {
+
+padding: 20px;
+
+max-width: 800px;
+
+margin: 0 auto;
+
+}
+
+
+main img {
+
+max-width: 100%;
+
+height: auto;
+
+display: block;
+
+margin: 20px 0;
+
+}
 
 <p>This is a simple webpage hosted on GitHub Pages.</p>
 
