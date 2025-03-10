@@ -14,30 +14,12 @@
 
 <body>
 
-<header>header h1 {
-
-margin: 0;
-
-}
 
 
-nav a {
 
-color: white;
-
-text-decoration: none;
-
-margin: 0 10px;}
-
-
-nav a:hover {
-
-text-decoration: underline;
-
-}
   
 
-<h1>Welcome to My Website!</h1><nav>
+<h1>Welcome to Celestial Computers</h1><nav>
 
 <a href="index.html">Home</a> |
 
